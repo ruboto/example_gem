@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{This is an example of how to release platform specific gems.
 Included at this time is Ruboto specific version,
 but contact us if you would like to add another version.}
-  spec.platform      = 'dalvik10'
+  spec.platform      = 'dalvik' # Use 'dalvik10' to limit to api level 10
   spec.homepage      = 'https://github.com/ruboto/example_gem'
   spec.license       = 'MIT'
 
