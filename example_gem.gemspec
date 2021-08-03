@@ -21,6 +21,6 @@ but contact us if you would like to add another version.}
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = %w(lib)
 
-  spec.add_development_dependency 'bundler', '~> 1.3'
+  spec.add_development_dependency 'bundler', '~> 2.2'
   spec.add_development_dependency 'rake'
 end
